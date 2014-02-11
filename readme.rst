@@ -1,5 +1,4 @@
-###################
-What is CodeIgniter
+CodeIgniter 2.1.4
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
